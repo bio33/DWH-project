@@ -1,1 +1,1 @@
-# dwh-project
+# DWHProject
